@@ -1,0 +1,5 @@
+ami-type = "ami-04581fbf744a7d11f"
+instace_type = "t2.small"
+env = "prod"
+instance-name = "jenkins-server-prod  "
+team = "prod Team"
